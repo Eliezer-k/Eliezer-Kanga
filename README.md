@@ -42,6 +42,7 @@ Contact Me:
 
 - Email: eliezerkanga@gmail.com
 - LinkedIn: https://www.linkedin.com/in/eliezer-kanga?utm_source=share_via&utm_content=profile&utm_medium=member_android
+- Portfolio: https://eliezer-k.github.io/Portfolio/
 
 ---
 
